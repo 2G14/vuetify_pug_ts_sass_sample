@@ -1,4 +1,7 @@
-# veetify_sample
+# vuetify_sample
+
+Vuetifyのサンプルをpug, TypeScript, Sassで記述したもの。
+Vueの基本を理解していない段階のため、間違った記述をしている可能性が高いので注意してください。
 
 ## Project setup
 ```
